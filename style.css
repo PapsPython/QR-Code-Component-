@@ -3,6 +3,7 @@ html, body {
   width: 100%;
   font-family: 'Outfit', sans-serif;
   background-color: hsl(220, 15%, 55%);
+  overflow-x: hidden;
 }
 
   
@@ -19,7 +20,7 @@ img{
 }
 
 footer img{
- width:8%;
+ width:10px;
 }
 
 .container{
